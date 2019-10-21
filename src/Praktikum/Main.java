@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void asede() {
-        //JEMBOT
         Sort sayang = new Sort();
         Scanner scan = new Scanner(System.in);
         System.out.print("Kamu Pilih Yang Mana Beb ? " +
